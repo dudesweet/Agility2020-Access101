@@ -1,4 +1,4 @@
-Lab 1: Basic Access Policy Build
+Lab 1: Building a Basic Access Policy
 ======================================
 
 The purpose of this lab is to configure and test a SAML Service
