@@ -1,4 +1,4 @@
-Lab 1: SAML Service Provider (SP) Lab
+Lab 1: Basic Access Policy Build
 ======================================
 
 The purpose of this lab is to configure and test a SAML Service
