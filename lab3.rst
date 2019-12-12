@@ -1,4 +1,4 @@
-Lab 3: oAuth and OpenID Connect Lab (Google)
+Lab 3: Access Session Management
 ============================================
 
 The purpose of this lab is to better understand the F5 use cases OAuth2
