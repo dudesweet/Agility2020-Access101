@@ -1,4 +1,4 @@
-Lab 1: Building a Basic Access Policy
+Lab 1: System Setup
 ======================================
 
 The purpose of this lab is to configure and test a SAML Service
