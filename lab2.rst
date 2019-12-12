@@ -1,4 +1,4 @@
-Lab 2: LAB2: Webtop Access Policy Build 
+Lab 2: Building a Basic Access Policy
 ====================================================
 
 The purpose of this lab is to configure and test a IDaaS SAML Identity
