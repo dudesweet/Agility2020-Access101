@@ -1,4 +1,4 @@
-Lab 2: IDaaS SAML Identity Provider (iDP) Lab (OKTA)
+Lab 2: LAB2: Webtop Access Policy Build 
 ====================================================
 
 The purpose of this lab is to configure and test a IDaaS SAML Identity
