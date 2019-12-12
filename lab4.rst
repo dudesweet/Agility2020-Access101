@@ -1,4 +1,4 @@
-Lab 4: oAuth and AzureAD Lab
+Lab 4: Access Session Management
 ============================
 
 The purpose of this lab is to familiarize the Student with the using APM
