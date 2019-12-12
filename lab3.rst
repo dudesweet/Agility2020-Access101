@@ -1,4 +1,4 @@
-Lab 3: Access Session Management
+Lab 3: Webtop Access Policy Build
 ============================================
 
 The purpose of this lab is to better understand the F5 use cases OAuth2
