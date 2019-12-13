@@ -71,7 +71,6 @@ Task 3: Create HTTPS Virtual Server
 7.	For “Default Pool”, select the pool created earlier. It should be named http_pool
 
 |image004|
-
  
 TASK 4: Configure the SAML SP Access Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
