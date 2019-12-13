@@ -36,6 +36,7 @@ TASK 1: Create A Pool
 5. Click **Finished**
 
 Task 2: Create HTTP Virtual Server to redirect to HTTPS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.	Create a new Virtual Server by browsing to Local Traffic > Virtual Servers > Virtual Server List and click the ‘+’ to create a new one.
 
@@ -52,47 +53,25 @@ Task 2: Create HTTP Virtual Server to redirect to HTTPS
 5. Click **Finished**
 
 
+Task 3: Create HTTPS Virtual Server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TASK: 3: Bind the External SAML IdP Connector to the SAML SP 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.	Create a new Virtual Server by browsing to Local Traffic > Virtual Servers > Virtual Server List and click the ‘+’ to create a new one.  
 
-Refer to the instructions and screen shots below:
+2.	Name the Virtual Server in the following format https_vs .
 
-+----------------------------------------------------------------------------------------------+
-| 1. Click on the **Local SP Services** from the **SAML Service Provider** tab in the          |
-|                                                                                              |
-|    horizontal navigation menu.                                                               |
-|                                                                                              |
-| 2. Click the **Checkbox** next to the previously created **app.f5demo.com** and select       |
-|                                                                                              |
-|    **Bind/Unbind IdP Connectors** button at the bottom of the GUI.                           | 
-+----------------------------------------------------------------------------------------------+
-| |image006|                                                                                   |
-+----------------------------------------------------------------------------------------------+
+3.	For “Destination Address/Mask”, use 10.1.10.100. For “Service Port”, use 443.
 
-+----------------------------------------------------------------------------------------------+
-| 3. In the **Edit SAML IdP’s that use this SP** dialogue box click the **Add New Row** button |
-|                                                                                              |
-| 4. In the added row click the **Down Arrow** under **SAML IdP Connectors** and select the    |
-|                                                                                              |
-|    **/Common/idp.partner.com** SAML IdP Connector previously created.                        |
-|                                                                                              |
-| 5. Click the **Update** button and the **OK** button at the bottom of the dialogue box.      |
-+----------------------------------------------------------------------------------------------+
-| |image007|                                                                                   |
-+----------------------------------------------------------------------------------------------+
+4.	For “HTTP Profile”, choose the default http profile 
 
-+----------------------------------------------------------------------------------------------+
-| 6. Under the **Access** -> **Federation** -> **SAML Service Provider** ->                    |
-|                                                                                              |
-|    **Local SP Services** menu you should now see the following (as shown):                   |
-|                                                                                              |
-|    -  **Name**: **app.f5demo.com**                                                           |
-|                                                                                              |
-|    -  **SAML IdP Connectors**: **idp.partner.com**                                           |
-+----------------------------------------------------------------------------------------------+
-| |image008|                                                                                   |
-+----------------------------------------------------------------------------------------------+
+5.	For “SSL Profile (Client)”, choose the f5demo, slide it over to the “Selected” column
+
+6.	For “Source Address Translation”, choose Auto Map
+
+7.	For “Default Pool”, select the pool created earlier. It should be named http_pool
+
+
+
  
 TASK 4: Configure the SAML SP Access Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
