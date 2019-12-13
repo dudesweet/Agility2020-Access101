@@ -70,7 +70,7 @@ Task 3: Create HTTPS Virtual Server
 
 7.	For “Default Pool”, select the pool created earlier. It should be named http_pool
 
-
+|image004|
 
  
 TASK 4: Configure the SAML SP Access Policy
@@ -258,8 +258,8 @@ Refer to the instructions and screen shots below:
    :width: 18.69in
    :height: 5.06in
 .. |image004| image:: media/image004.png
-   :width: 4.5in
-   :height: 0.73in
+   :width: 8.74n
+   :height: 7.69in
 .. |image005| image:: media/image005.png
    :width: 4.5in
    :height: 3.37in
