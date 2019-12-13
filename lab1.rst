@@ -28,51 +28,9 @@ TASK 1: Create A Pool
 •	Address: 10.1.20.6 Service Port 80
 •	Address: 10.1.20.16 Service Port 80
 
+image001
 
 
-Refer to the instructions and screen shots below:
-
-+----------------------------------------------------------------------------------------------+
-| 1. Login to your lab provided **Virtual Edition BIG-IP**                                     |
-|                                                                                              |
-| 2. Begin by selecting: **Access -> Federation -> SAML Service Provider** ->                  |
-|                                                                                              |
-|    **Local SP Services**                                                                     |
-|                                                                                              |
-| 3. Click the **Create** button (far right)                                                   |
-+----------------------------------------------------------------------------------------------+
-| |image001|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 4. In the **Create New SAML SP Service**  dialogue box click **General Settings** in         |
-|                                                                                              |
-|    the left navigation pane and key in the following as shown:                               | 
-|                                                                                              |
-|    -  **Name**: **app.f5demo.com**                                                           | 
-|                                                                                              |
-|    -  **Entity ID**: **https://app.f5demo.com**                                              |
-|                                                                                              |
-|    *Note: The yellow box on Host will disappear when the Entity ID is entered.*              |
-+----------------------------------------------------------------------------------------------+
-| |image002|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 5. Click on the **Security Settings** in the left navigation menu.                           |
-|                                                                                              |
-| 6. Check the **Sign Authentication Request** checkbox                                        |
-|                                                                                              |
-| 7. Select **/Common/SAML.key** from drop down menu for the                                   |
-|    **Message Signing Private Key**                                                           |
-|                                                                                              |
-| 8. Select **/Common/SAML.crt** from drop down menu for the                                   |
-|    **Message Signing Certificate**                                                           |
-|                                                                                              |
-| 9. Click **OK** on the dialogue box                                                          |
-+----------------------------------------------------------------------------------------------+
-| |image003|                                                                                   |
-+----------------------------------------------------------------------------------------------+
 
 TASK 2: Configure the External SAML IdP Connector 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
