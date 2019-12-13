@@ -28,7 +28,7 @@ TASK 1: Create A Pool
 •	Address: 10.1.20.6 Service Port 80
 •	Address: 10.1.20.16 Service Port 80
 
-image001
+|image001|
 
 
 
