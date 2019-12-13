@@ -25,7 +25,9 @@ TASK 1: Create A Pool
 2.	Name the pool in “http_pool”
 3.	Assign the monitor “http” by selecting it and sliding it to the left.
 4.	Add the following “new node” members to the pool: 
+
 •	Address: 10.1.20.6 Service Port 80
+
 •	Address: 10.1.20.16 Service Port 80
 
 |image001|
@@ -51,7 +53,7 @@ Refer to the instructions and screen shots below:
 | |image004|                                                                                   |
 +----------------------------------------------------------------------------------------------+
 
-+----------------------------------------------------------------------------------------------+   
++--------- -------------------------------------------------------------------------------------+   
 | 4. In the **Create New SAML IdP Connector** dialogue box, click **Browse** and select        |
 |                                                                                              |
 |    the **idp.partner.com-app\_metadata.xml** file from the Desktop of your jump host.        |
@@ -286,8 +288,8 @@ Refer to the instructions and screen shots below:
 +----------------------------------------------------------------------------------------------+
 
 .. |image001| image:: media/image001.png
-   :width: 4.5in
-   :height: 0.74in
+   :width: 9.21in
+   :height: 8.29in
 .. |image002| image:: media/image002.png
    :width: 4.5in
    :height: 3.37in
