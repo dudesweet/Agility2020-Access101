@@ -33,43 +33,25 @@ TASK 1: Create A Pool
 |image001|
 
 
+5. Click **Finished**
 
-TASK 2: Configure the External SAML IdP Connector 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Task 2: Create HTTP Virtual Server to redirect to HTTPS
 
-Refer to the instructions and screen shots below:
+1.	Create a new Virtual Server by browsing to Local Traffic > Virtual Servers > Virtual Server List and click the ‘+’ to create a new one.
 
-+----------------------------------------------------------------------------------------------+
-| 1. Click on the **Access** -> **Federation** -> **SAML Service Provider** ->                 |
-|                                                                                              |  
-|    **External IdP Connectors** or click on the **SAML Service Provider** tab in the          | 
-|                                                                                              |
-|    horizontal navigation menu andselect **External IdP Connectors**.                         |
-|                                                                                              |
-| 2. Click specifically on the **Down Arrow** next to the **Create** button (far right)        |
-|                                                                                              |
-| 3. Select **From Metadata** from the drop down menu                                          |
-+----------------------------------------------------------------------------------------------+
-| |image004|                                                                                   |
-+----------------------------------------------------------------------------------------------+
+2.	Name the Virtual Server in the following format http_vs_redir.  For “Destination Address/Mask”, use 10.1.10.100". For “Service Port”, use 80.
 
-+--------- -------------------------------------------------------------------------------------+   
-| 4. In the **Create New SAML IdP Connector** dialogue box, click **Browse** and select        |
-|                                                                                              |
-|    the **idp.partner.com-app\_metadata.xml** file from the Desktop of your jump host.        |
-|                                                                                              |
-| 5. In the **Identity Provider Name** field enter the following: **idp.partner.com**          | 
-|                                                                                              |
-| 6. Click **OK** on the dialogue box.                                                         |
-|                                                                                              |
-| *Note: The idp.partner.com-app\_metadata.xml was created previously. Oftentimes, iDP*        |
-|                                                                                              |
-| *providers will have a metadata file representing their IdP service. This can be*            | 
-|                                                                                              |
-| *imported to save object creation time as it has been done in this lab*                      |
-+----------------------------------------------------------------------------------------------+
-| |image005|                                                                                   |
-+----------------------------------------------------------------------------------------------+
+3.	For “HTTP Profile” choose the default http profile called http
+
+4.	Under iRules at the bottom of the screen, select the sys_https_redirect irule from the “Available” list and slide it over to the “Enabled” list and click Finished.
+
+|image002|
+
+|image003|
+
+5. Click **Finished**
+
+
 
 TASK: 3: Bind the External SAML IdP Connector to the SAML SP 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
