@@ -1,31 +1,33 @@
 Lab 1: System Setup
 ======================================
 
-The purpose of this lab is to configure and test a SAML Service
-Provider (SP). Students will configure the various aspects of a SAML Service
-Provider, import and bind to a SAML Identity Provider (IdP) and test
-SP-Initiated SAML Federation.
+The purpose of this lab is to configure a basic vip on which subsequent labs will be built. 
 
 Objective:
 ----------
 
--  Gain an understanding of SAML Service Provider(SP) configurations and
-   its component parts
-
--  Gain an understanding of the access flow for SP-Initiated SAML
+In this lab, we will configure resources including Virtual Servers, Pools, and monitors that we will use as the foundation for subsequent labs.
 
 Lab Requirements:
 -----------------
 
 -  All Lab requirements will be noted in the tasks that follow
 
--  Estimated completion time: 25 minutes
+-  Estimated completion time: 10 minutes
 
 Lab 1 Tasks:
 -----------------
 
-TASK 1: Configure the SAML Service Provider (SP) 
+TASK 1: Create A Pool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.	Browse to Local Traffic > Pools and click the ‘+’ next to Pools List to create a new pool.  
+2.	Name the pool in “http_pool”
+3.	Assign the monitor “http” by selecting it and sliding it to the left.
+4.	Add the following “new node” members to the pool: 
+•	Address: 10.1.10.6 Service Port 80
+•	Address: 10.1.20.16 Service Port 80
+
 
 Refer to the instructions and screen shots below:
 
