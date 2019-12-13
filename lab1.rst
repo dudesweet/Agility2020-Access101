@@ -25,8 +25,9 @@ TASK 1: Create A Pool
 2.	Name the pool in “http_pool”
 3.	Assign the monitor “http” by selecting it and sliding it to the left.
 4.	Add the following “new node” members to the pool: 
-•	Address: 10.1.10.6 Service Port 80
+•	Address: 10.1.20.6 Service Port 80
 •	Address: 10.1.20.16 Service Port 80
+
 
 
 Refer to the instructions and screen shots below:
