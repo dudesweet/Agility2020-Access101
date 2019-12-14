@@ -3,8 +3,8 @@ Conclusion
 
 Thank you for your participation in the 101 Access Policy Manager (APM)
 Lab. This Lab Guide has highlighted several fundamental features of the Acccess 
-Policy Manager Module. It provides a basic APOM overview. It does not attempt to r
-review all F5 apm capbilities but serves as an introduction to allow the
+Policy Manager Module. It provides a basic APM overview. It does not attempt to 
+review all F5 APM capbilities but serves as an introduction to allow the
 student to further explore the BIG-IP platform and Access Policy Manager
 (APM), its functions & features.
 
