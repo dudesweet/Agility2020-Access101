@@ -9,64 +9,14 @@ student to further explore the BIG-IP platform and Access Policy Manager
 (APM), its functions & features.
 
 Appendix
-========
+=======
 
-Setting up an AzureAD Developer Account
----------------------------------------
-
-The following steps are for informational purposes only and maybe subject to change based on Microsoft.  
-
-+----------------------------------------------------------------------------------------------+
-| 1. Navigate to the following URL to begin the process then follow the prompts as shown       |
-|                                                                                              |
-|    https://azure.microsoft.com/en-us/free/                                                   |
-|                                                                                              |
-| 2. The following images show the general flow to setup a free developer account              |
-|                                                                                              |
-| *Note: This process may change as dictated by Microsoft*                                     |
-+----------------------------------------------------------------------------------------------+
-| |image143|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 3. Initial Setup                                                                             |
-+----------------------------------------------------------------------------------------------+
-| |image144|                                                                                   |
-| |image145|                                                                                   |
-|                                                                                              |
-| |image146|                                                                                   | 
-| |image147|                                                                                   | 
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 4. About You                                                                                 |
-+----------------------------------------------------------------------------------------------+
-| |image148|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 5. Identity Verification by Phone                                                            |
-+----------------------------------------------------------------------------------------------+
-| |image149|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 6. Identity Verification by Card                                                             |
-+----------------------------------------------------------------------------------------------+
-| |image150|                                                                                   |
-+----------------------------------------------------------------------------------------------+
-
-+----------------------------------------------------------------------------------------------+
-| 7. Agreement                                                                                 |
-+----------------------------------------------------------------------------------------------+
-| |image151|                                                                                   |
-+----------------------------------------------------------------------------------------------+
 
 Links & Guides
 --------------
 
 The following are additional resources included for reference and assistance with
-this lab guide and other APM tasks.
+this lab guide and many other APM tasks.
 
 -  **Access Policy Manager (APM) Operations Guide:**
    https://support.f5.com/content/kb/en-us/products/big-ip_apm/manuals/product/f5-apm-operations-guide/_jcr_content/pdfAttach/download/file.res/f5-apm-operations-guide.pdf
@@ -178,7 +128,7 @@ this lab guide and other APM tasks.
 |                                                                                              |
 | Japan: f5j-info@f5.com                                                                       |
 |                                                                                              |
-| ©2017 F5 Networks, Inc. All rights reserved. F5, F5 Networks, and the F5 logo are trademarks |
+| ©2020 F5 Networks, Inc. All rights reserved. F5, F5 Networks, and the F5 logo are trademarks |
 |                                                                                              |
 | of F5 Networks, Inc. in the U.S. and in certain other countries. Other F5 trademarks are     |
 |                                                                                              |
