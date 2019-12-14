@@ -100,50 +100,8 @@ You should now be able to browse to either Virtual Server (HTTP or HTTPs) and yo
    :width: 4.5in
    :height: 3.37in
 .. |image006| image:: media/image006.png
-   :width: 4.5in
-   :height: 1.15in
+   :width: 4.49in
+   :height: 1.68in
 .. |image007| image:: media/image007.png
    :width: 4.5in
    :height: 2.28in
-.. |image008| image:: media/image008.png
-   :width: 4.5in
-   :height: 0.96in
-.. |image009| image:: media/image009.png
-   :width: 4.5in
-   :height: 1.69in
-.. |image010| image:: media/image010.png
-   :width: 4.5in
-   :height: 2.94in
-.. |image011| image:: media/image011.png
-   :width: 4.5in
-   :height: 0.80in
-.. |image012| image:: media/image012.png
-   :width: 4.5in
-   :height: 1.12in
-.. |image013| image:: media/image013.png
-   :width: 4.5in
-   :height: 4.00in
-.. |image014| image:: media/image014.png
-   :width: 4.5in
-   :height: 1.48in
-.. |image015| image:: media/image015.png
-   :width: 4.5in
-   :height: 1.12in
-.. |image016| image:: media/image016.png
-   :width: 4.5in
-   :height: 1.54in
-.. |image017| image:: media/image017.png
-   :width: 4.5in
-   :height: 1.29in
-.. |image018| image:: media/image018.png
-   :width: 4.5in
-   :height: 5.46in
-.. |image019| image:: media/image019.png
-   :width: 4.5in
-   :height: 2.13in
-.. |image020| image:: media/image020.png
-   :width: 4.5in
-   :height: 1.01in
-.. |image021| image:: media/image021.png
-   :width: 4.5in
-   :height: 1.93in
