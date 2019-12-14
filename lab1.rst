@@ -94,7 +94,7 @@ You should now be able to browse to either Virtual Server (HTTP or HTTPs) and yo
    :width: 18.69in
    :height: 5.06in
 .. |image004| image:: media/image004.png
-   :width: 8.74n
+   :width: 8.74in
    :height: 7.69in
 .. |image005| image:: media/image005.png
    :width: 4.5in
