@@ -79,7 +79,9 @@ Task 3: Create HTTPS Virtual Server
 Task 4: Testing
 ~~~~~~~~~~~~~~~~
 
-You should now be able to browse to either Virtual Server (HTTP or HTTPs) and you should get the same page. Try: http://www.f5demo.com and https://www.f5demo.com
+You should now be able to browse to either Virtual Server (HTTP or HTTPs) and you should get the same page. Try: http://server1.acme.com and https://server1.acme.com
+
+|image006|
 
  
 
