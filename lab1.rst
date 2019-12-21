@@ -84,7 +84,7 @@ You should now be able to browse to either Virtual Server (HTTP or HTTPs) and yo
 |image007|
 
  
- Lab Complete.
+ This lab is complete.
 
 
 .. |image001| image:: media/image001.png
