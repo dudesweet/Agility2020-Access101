@@ -81,7 +81,7 @@ Task 4: Testing
 
 You should now be able to browse to either Virtual Server (HTTP or HTTPs) and you should get the same page. Try: http://server1.acme.com and https://server1.acme.com
 
-|image006|
+|image007|
 
  
 
@@ -105,5 +105,6 @@ You should now be able to browse to either Virtual Server (HTTP or HTTPs) and yo
    :width: 4.49in
    :height: 1.68in
 .. |image007| image:: media/image007.png
-   :width: 4.5in
-   :height: 2.28in
+   :width: 14.28in
+   :height: 8.79in
+ 
