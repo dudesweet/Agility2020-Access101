@@ -136,7 +136,42 @@ Now you are ready to test.
     Password: **Agility1**
 
 | You will see a screen similar to the following:
-| |image27|
+| |image28|
+
+
+Task 4: Troubleshooting tips
+---------------
+
+You can view active sessions by navigating Access/Overview/Active Sessions
+
+Sellect Run report to generate and access session report for the last hour.
+
+Click on the Session ID for the active session.
+
+| You will see a screen similar to the following:
+| |image29|
+
+Click on the session id for the active session. If the session is active it will show up as a green in the status.
+ |image30|
+
+Click on the "session ID" next to the active session. Note every session has a unique session id. Associated with it.
+This can be used for troubleshooting specific authentication problem.
+
+Once you click on the session id you wll be presented with a screen that is similar to the following.
+|image31|
+
+Note that the screen will show all of the log messages associated with the session. This becomes useful if there is a problem authenticating users.
+
+The default log level shows limited "informational" messages but you can enable debug logging in the event that you need to increase the verbositiy of the logging 
+on the APM policy. Note you should always turn off debug logging when you are finished with trouble shooting as debug level logging can
+generate a lot of messages that will fill up log files and could lead to disk issues in the event that lgging is set to logto the
+local Big-IP.
+
+Please review the following support article that details how to enable debug logging.
+
+https://support.f5.com/csp/article/K45423041
+
+Lab 1 is now complete.
 
 .. 
 .. |image8| image:: media/image10.png
@@ -199,3 +234,12 @@ Now you are ready to test.
 .. |image27| image:: media/image9.png
    :width: 5.07751in
    :height: 2.84357in
+   |image29| image:: media/image29.png
+   :width: 18.83in
+   :height: 3.17in
+   |image30| image:: media/image30.png
+   :width: 14.44in
+   :height: 3.0in
+    |image30| image:: media/image31.png
+   :width: 19.64in
+   :height: 4.65in
