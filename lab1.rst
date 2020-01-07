@@ -139,118 +139,64 @@ Now you are ready to test.
 | You will see a screen similar to the following:
 | |image27|
 
-.. |image022| image:: media/image022.png
-   :width: 4.5in
-   :height: 2.32in
-.. |image023| image:: media/image023.png
-   :width: 4.5in
-   :height: 2.37in
-.. |image024| image:: media/image024.png
-   :width: 1.75in
-   :height: 2.75in
-.. |image025| image:: media/image025.png
-   :width: 2.5in
-   :height: 4.5in
-.. |image026| image:: media/image026.png
-   :width: 4.5in
-   :height: 0.74in
-.. |image027| image:: media/image027.png
-   :width: 4.5in
-   :height: 1.03in
-.. |image028| image:: media/image028.png
-   :width: 4.5in
-   :height: 2.58in
-.. |image029| image:: media/image029.png
-   :width: 4.5in
-   :height: 2.56in
-.. |image030| image:: media/image030.png
-   :width: 4.5in
-   :height: 0.80in
-.. |image031| image:: media/image031.png
-   :width: 4.5in
-   :height: 1.66in
-.. |image032| image:: media/image032.png
-   :width: 4.5in
-   :height: 1.64in
-.. |image033| image:: media/image033.png
-   :width: 4.5in
-   :height: 2.64in
-.. |image034| image:: media/image034.png
-   :width: 4.5in
-   :height: 2.71in
-.. |image035| image:: media/image035.png
-   :width: 4.0in
-   :height: 3.75in
-.. |image036| image:: media/image036.png
-   :width: 4.5in
-   :height: 2.56in
-.. |image037| image:: media/image037.png
-   :width: 4.5in
-   :height: 3.40in
-.. |image038| image:: media/image038.png
-   :width: 4.5in
-   :height: 1.89in
-.. |image039| image:: media/image039.png
-   :width: 4.5in
-   :height: 1.72in
-.. |image040| image:: media/image040.png
-   :width: 4.5in
-   :height: 1.69in
-.. |image041| image:: media/image041.png
-   :width: 4.5in
-   :height: 1.73in
-.. |image042| image:: media/image042.png
-   :width: 4.5in
-   :height: 1.22in
-.. |image043| image:: media/image043.png
-   :width: 4.5in
-   :height: 1.68in
-.. |image044| image:: media/image044.png
-   :width: 2.5in
-   :height: 3.25in
-.. |image045| image:: media/image045.png
-   :width: 4.5in
-   :height: 2.30in
-.. |image046| image:: media/image046.png
-   :width: 4.5in
-   :height: 0.77in
-.. |image047| image:: media/image047.png
-   :width: 4.5in
-   :height: 3.38in
-.. |image048| image:: media/image048.png
-   :width: 4.5in
-   :height: 1.15in
-.. |image049| image:: media/image049.png
-   :width: 4.5in
-   :height: 2.04in
-.. |image050| image:: media/image050.png
-   :width: 4.5in
-   :height: 2.33in
-.. |image051| image:: media/image051.png
-   :width: 4.5in
-   :height: 1.10in
-.. |image052| image:: media/image052.png
-   :width: 4.5in
-   :height: 1.66in
-.. |image053| image:: media/image053.png
-   :width: 4.5in
-   :height: 1.03in
-.. |image054| image:: media/image054.png
-   :width: 2.0in
-   :height: 1.75in
-.. |image055| image:: media/image055.png
-   :width: 2.0in
-   :height: 1.75in
-.. |image056| image:: media/image056.png
-   :width: 2.0in
-   :height: 1.75in
-.. |image057| image:: media/image057.png
-   :width: 4.5in
-   :height: 3.03in
-.. |image058| image:: media/image058.png
-   :width: 2.5in
-   :height: 2.5in
-.. |image059| image:: media/image059.png
-   :width: 4.5in
-   :height: 1.08in
-
+.. 
+.. |image8| image:: media/image10.png
+   :width: 2.59124in
+   :height: 2.90971in
+.. |image9| image:: media/image11.png
+   :width: 2.49705in
+   :height: 2.49047in
+.. |image10| image:: media/image12.png
+   :width: 2.81496in
+   :height: 2.04331in
+.. |image11| image:: media/image13.png
+   :width: 3.35694in
+   :height: 1.17083in
+.. |image12| image:: media/image14.png
+   :width: 5.30972in
+   :height: 1.96914in
+.. |image13| image:: media/image15.png
+   :width: 5.30625in
+   :height: 1.20139in
+.. |image14| image:: media/image16.png
+   :width: 3.67708in
+   :height: 1.59375in
+.. |image15| image:: media/image17.png
+   :width: 5.30972in
+   :height: 2.99543in
+.. |image16| image:: media/image18.png
+   :width: 4.09422in
+   :height: 4.25486in
+.. |image17| image:: media/image19.png
+   :width: 2.75000in
+   :height: 1.32500in
+.. |image18| image:: media/image20.png
+   :width: 2.83858in
+   :height: 4.42520in
+.. |image19| image:: media/image21.png
+   :width: 5.05208in
+   :height: 2.44710in
+.. |image20| image:: media/image22.png
+   :width: 4.80000in
+   :height: 1.40000in
+.. |image21| image:: media/image23.png
+   :width: 2.17708in
+   :height: 2.73681in
+.. |image22| image:: media/image24.png
+   :width: 4.51887in
+   :height: 1.56041in
+.. |image23| image:: media/image25.png
+   :width: 2.14583in
+   :height: 0.73958in
+.. |image24| image:: media/image26.png
+   :width: 2.00000in
+   :height: 0.67921in
+.. |image25| image:: media/image27.png
+   :width: 2.40945in
+   :height: 3.52362in
+.. |image26| image:: media/image28.png
+   :width: 2.13489in
+   :height: 1.96875in
+.. |image27| image:: media/image9.png
+   :width: 5.07751in
+   :height: 2.84357in
