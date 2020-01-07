@@ -10,7 +10,7 @@ The lab has a pre configured test VIP, we will use the VIP that has been pre con
 Lab Requirements
 ----------------
 
--  A pre existing virtual server. 
+-  A pre existing virtual server at 10.1.10.100 or https://server1.acme.com
 
 Task 1: Define an Authentication Server
 ---------------------------------------
@@ -31,7 +31,7 @@ server profile for our Active Directory.
 
     Server Connection: **Direct**
 
-    Domain Controller: **10.128.20.200**
+    Domain Controller: **10.1.20.7**
 
 |image10| |image11|
 
