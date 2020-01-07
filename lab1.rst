@@ -136,7 +136,7 @@ Now you are ready to test.
     Password: **Agility1**
 
 | You will see a screen similar to the following:
-| |image28|
+| |image27|
 
 
 Task 4: Troubleshooting tips
