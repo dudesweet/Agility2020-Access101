@@ -139,7 +139,7 @@ Now you are ready to test.
 | |image27|
 
 
-Task 4: Troubleshooting tips
+Task 5: Troubleshooting tips
 ---------------
 
 You can view active sessions by navigating Access/Overview/Active Sessions
