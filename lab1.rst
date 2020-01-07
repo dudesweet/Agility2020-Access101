@@ -4,14 +4,13 @@ Lab 1: Building a Basic Access Policy
 Objectives
 ----------
 
-In this lab, we will use the resources configured in the previous lab
-and configure a simple Access Profile using the Visual Policy Editor
+The lab has a pre configured test VIP, we will use the VIP that has been pre configured in to configure a simple Access Profile using the Visual Policy Editor
 (VPE) to perform user authentication.
 
 Lab Requirements
 ----------------
 
--  Working HTTP and HTTPS Virtual Servers 
+-  A pre existing virtual server. 
 
 Task 1: Define an Authentication Server
 ---------------------------------------
