@@ -27,7 +27,7 @@ server profile for our Active Directory.
 
     Name: **Lab\_SSO\_AD\_Server**
 
-    Domain Name: **f5demo.com**
+    Domain Name: **f5lab.local*
 
     Server Connection: **Direct**
 
