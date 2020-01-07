@@ -234,13 +234,13 @@ Lab 1 is now complete.
 .. |image27| image:: media/image9.png
    :width: 5.07751in
    :height: 2.84357in
-.. |image25| image:: media/image29.png
+.. |image29| image:: media/image29.png
    :width: 18.33in
    :height: 3.17in
-.. |image26| image:: media/image30.png
+.. |image30| image:: media/image30.png
    :width: 14.44in
    :height: 3.0in
-.. |image27| image:: media/image31.png
+.. |image31| image:: media/image31.png
    :width: 19.641in
    :height: 4.65in
    
@@ -250,12 +250,3 @@ Lab 1 is now complete.
    
    
    
-   |image29| image:: media/image29.png
-   :width: 18.83in
-   :height: 3.17in
-   |image30| image:: media/image30.png
-   :width: 14.44in
-   :height: 3.0in
-   |image31| image:: media/image31.png
-   :width: 19.64in
-   :height: 4.65in
