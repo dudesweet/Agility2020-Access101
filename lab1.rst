@@ -144,12 +144,7 @@ Task 5: Troubleshooting tips
 
 You can view active sessions by navigating Access/Overview/Active Sessions
 
-Sellect Run report to generate and access session report for the last hour.
-
-Click on the Session ID for the active session.
-
 | You will see a screen similar to the following:
-| |image29|
 
 Click on the session id for the active session. If the session is active it will show up as a green in the status.
  |image30|
