@@ -125,7 +125,7 @@ Now you are ready to test.
 
 1. Open a new browser window and open the URL for the virtual server
    that has the access policy applied:
-   `**https://www.f5demo.com** <https://www.f5demo.com>`__\ **
+   `**https://server1.acme.com** <https://server1.acme.com>`__\ **
    **\ You will be presented with a login window\ **
    **\ |image26|
 
@@ -240,6 +240,6 @@ Lab 1 is now complete.
    |image30| image:: media/image30.png
    :width: 14.44in
    :height: 3.0in
-    |image30| image:: media/image31.png
+   |image31| image:: media/image31.png
    :width: 19.64in
    :height: 4.65in
