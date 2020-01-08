@@ -47,20 +47,33 @@ Task – Add Webtop resource to existing Access Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Browse to **Access** > **Profiles / Policies > Access Profiles
-   (Per-Session Policies)**, click on **Edit** for **MyVPNPolicy**. A
-   new tab should open to the Visual Policy Editor for **MyVPNPolicy**.
+   (Per-Session Policies)**, click on **Edit** for **MyAccessPolicy**. A
+   new tab should open to the Visual Policy Editor for **MyAccessPolicy**.
 
    |image40|
 
-#. Select the **Advanced Resource Assign** object.
+#. In between the AD Auth APM Item and the Allow APM item click the + option to add an item.
+   
+   |image46|
 
-#. Click **Add/Delete**.
+#. Select the **Advanced Resource Assign** object. Click on the "Assignment Tab" and select the "Advanced Resource Assign"
+   radio button. Click **Add Item*.
+
+   |image47|
+
+#. Then Click the "Add New Entry" button. 
+
+   |image48|
+
+
+#. Then under the "Expression Section" click the "Add/Delete" button
 
 #. | Click on the **Webtop** tab, select the radio button for
-     **MyFullWebtop**, then click the **Update** button at the bottom of
+     **MyFullWebtop**. Click on the **Webop Links* tab, and select the radio button for **F5Rocks**
+     then click the **Update** button at the bottom of
      the screen.
 
-   |image45|
+   |image49|
 
 #. Click **Save**.
 
@@ -77,7 +90,7 @@ Task – Testing
 ~~~~~~~~~~~~~~
 
 #. Open a web browser to the virtual server created in the previous lab
-   by navigating to **https://myvpn.f5demo.com**. You will be presented
+   by navigating to **https://server1.acme.com**. You will be presented
    with a Logon page similar to the one from the last lab.
 
 #. Enter the following credentials:
@@ -113,8 +126,20 @@ Task – Testing
    :width: 1.90000in
    :height: 0.40000in
 .. |image43| image:: media/image44.png
-   :width: 3.83333in
-   :height: 2.16875in
+   :width: 7.31in
+   :height: 6.32in
 .. |image45| image:: media/image45.png
    :width: 9.39in
    :height: 6.17in
+.. |image46| image:: media/image46.png
+   :width: 6.71in
+   :height: 2.54in
+.. |image47| image:: media/image47.png
+   :width: 11.4in
+   :height: 3.82in
+.. |image48| image:: media/image48.png
+   :width: 11.4in
+   :height: 3.82in
+.. |image49| image:: media/image49.png
+   :width: 14.42in
+   :height: 9.86in
