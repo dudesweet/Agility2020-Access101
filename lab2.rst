@@ -8,7 +8,7 @@ created in the previous lab.
 .. NOTE::
   Lab Requirements:
 
-  - Working HTTPS Virtual Server created in Lab 1 with Access Policy created in Lab 2 (Lab 2 successfully completed).
+  - Working HTTPS Virtual Server with Access Policy Created in Lab 1 (Lab 1 successfully completed).
 
 
 Task – Create a Webtop resource
@@ -25,16 +25,21 @@ Task – Create a Webtop resource
 
 
 
-Task – Enable “Content Rewrite” on the Virtual Server
+Task – Create Webtop Item
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#. Browse to **Local Traffic** > **Virtual Servers >** **Virtual Server
-   List** and click on the name of your VPN Virtual Server called
-   **MyVPNPolicy\_vs**.
+#. Browse to **Access** > **Webtops >** **Webtop Link ** and click create.
 
-#. Scroll down to the “Content Rewrite” section, select
-   “\ **rewrite**\ ” for the “Rewrite Profile” field and click **Update**.
+
+#. Complete the following entries.
+
+      Name: F5Rocks
+      Link Type Dropdown: Application URI
+      Applicatoin URI : https://www.f5.com
+      Application Caption : F5 Rocks.
 
    |image39|
+
+   |image45|
 
 
 
@@ -55,7 +60,7 @@ Task – Add Webtop resource to existing Access Policy
      **MyFullWebtop**, then click the **Update** button at the bottom of
      the screen.
 
-   |image41|
+   |image45|
 
 #. Click **Save**.
 
@@ -96,8 +101,8 @@ Task – Testing
    :width: 3.59097in
    :height: 2.50000in
 .. |image39| image:: media/image40.png
-   :width: 3.69861in
-   :height: 2.96356in
+   :width: 19.83in
+   :height: 3.58in
 .. |image40| image:: media/image41.png
    :width: 4.66142in
    :height: 1.48031in
@@ -110,3 +115,6 @@ Task – Testing
 .. |image43| image:: media/image44.png
    :width: 3.83333in
    :height: 2.16875in
+.. |image45| image:: media/image44.png
+   :width: 9.39in
+   :height: 6.17in
