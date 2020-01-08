@@ -115,6 +115,6 @@ Task – Testing
 .. |image43| image:: media/image44.png
    :width: 3.83333in
    :height: 2.16875in
-.. |image45| image:: media/image44.png
+.. |image45| image:: media/image45.png
    :width: 9.39in
    :height: 6.17in
