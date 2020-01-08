@@ -117,8 +117,8 @@ Task – Testing
    :width: 19.83in
    :height: 3.58in
 .. |image40| image:: media/image41.png
-   :width: 4.66142in
-   :height: 1.48031in
+   :width: 7.18in
+   :height: 3.21in
 .. |image41| image:: media/image42.png
    :width: 3.89583in
    :height: 0.98194in
