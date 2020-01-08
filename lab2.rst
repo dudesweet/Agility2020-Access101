@@ -32,10 +32,10 @@ Task – Create Webtop Item
 
 #. Complete the following entries.
 
-      Name: F5Rocks
-      Link Type Dropdown: Application URI
-      Applicatoin URI : https://www.f5.com
-      Application Caption : F5 Rocks.
+      |Name: F5Rocks
+      |Link Type Dropdown: Application URI
+      |Applicatoin URI : https://www.f5.com
+      |Application Caption : F5 Rocks.
 
    |image39|
 
