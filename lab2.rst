@@ -102,8 +102,8 @@ Task – Testing
 #. Click **Logon**.
 
    This will open the APM Webtop landing page that shows the resources you
-   are allowed to access. In this lab, we’ve only configured one resource:
-   **Network Access**, but you can add as many as you want and they will
+   are allowed to access. In this lab, we’ve only configured one resource: 
+   **F5 Rocks**, but you can add as many as you want and they will
    appear on this Webtop page.
 
    |image43|
