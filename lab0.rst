@@ -28,7 +28,7 @@ TASK 1: Create A Pool
 
 •	Address: 10.1.20.6 Service Port 80
 
-•	Address: 10.1.20.16 Service Port 80
+
 
 |image001|
 
@@ -40,7 +40,7 @@ Task 2: Create HTTP Virtual Server to redirect to HTTPS
 
 1.	Create a new Virtual Server by browsing to Local Traffic > Virtual Servers > Virtual Server List and click the ‘+’ to create a new one.
 
-2.	Name the Virtual Server in the following format http_vs_redir.  For “Destination Address/Mask”, use 10.1.10.100". For “Service Port”, use 80.
+2.	Name the Virtual Server in the following format http_vs_redir.  For “Destination Address/Mask”, use 10.1.10.101". For “Service Port”, use 80.
 
 3.	For “HTTP Profile” choose the default http profile called http
 

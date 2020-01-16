@@ -10,7 +10,7 @@ The lab has a pre configured test VIP, we will use the VIP that has been pre con
 Lab Requirements
 ----------------
 
--  A pre existing virtual server at 10.1.10.100 or https://server1.acme.com
+-  A pre existing virtual server at 10.1.10.101 or https://server1.acme.com
 
 Task 1: Define an Authentication Server
 ---------------------------------------
@@ -33,9 +33,15 @@ server profile for our Active Directory.
 
     Domain Controller: **10.1.20.7**
 
+    User Name: **f5lab\admin**
+
+    Password: **admin**
+
 |image10| |image11|
 
-1. Click **Finished**
+4. Click **Finished**
+
+N.B. If you wish you can simply use the **pre-built-ad-servers**.
 
 Task 2: Create a Simple Access Profile
 --------------------------------------
