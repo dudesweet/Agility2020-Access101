@@ -4,7 +4,7 @@ F5 Agility Labs - Index
 Welcome
 -------
 
-Welcome to the |Acess 101| lab at F5 Agility |2020|
+Welcome to the |Access 101| lab at F5 Agility |2020|
 
 |repoinfo|
 
