@@ -139,7 +139,7 @@ Now you are ready to test.
 
     Username: **user**
 
-    Password: **Agility1**
+    Password: **user1**
 
 | You will see a screen similar to the following:
 | |image27|
