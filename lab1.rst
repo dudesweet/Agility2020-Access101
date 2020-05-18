@@ -116,7 +116,7 @@ appropriate virtual server to be able to use it.
 
 1. From the **Local Traffic** menu, navigate to the **Virtual Servers
    List** and click the name of the virtual server created previously:
-   **https\_vs**.
+   **demo-vs-https**.
 
 2. | Scroll down to the “Access Policy” section, then for the “Access
      Profile” dropdown, select **MyAccessPolicy**
