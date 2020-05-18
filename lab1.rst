@@ -37,7 +37,7 @@ server profile for our Active Directory.
 
     Password: **admin**
 
-|image10| |image11|
+
 
 4. Click **Finished**
 
